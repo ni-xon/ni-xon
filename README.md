@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ni-xon
-- 👀 I’m currently interested in data science, software development and web development.
-- 🌱 I’m currently learning web development.
+- 👀 I’m currently interested in data science, software development.
+- 🌱 I’m currently learning back-end frameworks; flask.
 - 💞️ I’m looking to collaborate in the near future!
 
 <!---
