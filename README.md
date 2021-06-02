@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ni-xon
-- 👀 I’m currently interested in data science, software development.
-- 🌱 I’m currently learning back-end frameworks; flask.
-- 💞️ I’m looking to collaborate in the near future!
+- 👀 I’m currently interested in data science and web development.
+- 🌱 I’m currently learning JavaScript.
 
 <!---
 ni-xon/ni-xon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
